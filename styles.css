@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px;
+}
+.item{
+    padding: 10px;
+}
